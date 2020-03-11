@@ -1,4 +1,6 @@
-Personal portfolio built with GatsbyJS. 
+Personal portfolio built with ReactJS and GatsbyJS. 
+Deployed using Netlify.
+https://jenniferhuynh-portfolio.netlify.com/
 
 ## Theme used
 
